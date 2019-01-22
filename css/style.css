@@ -96,3 +96,9 @@ footer {
 .small {
     font-size: 0.8em;
 }
+
+.small p {
+    color: #555;
+    font-size: 1em;
+    margin: 0 0 20px 0;
+}
