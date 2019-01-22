@@ -91,6 +91,13 @@ p {
   padding: 1px;
 }
 
+#press img {
+	-webkit-transition: color 0.5s ease;
+  -moz-transition: color 0.5s ease;
+  -o-transition: color ease-out 1s;
+  transition: color ease-out 1s;
+}
+
 #press img:hover {
     border: 5px rgb(111,127,122) solid;
 }
