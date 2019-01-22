@@ -81,9 +81,7 @@ p {
 a:active, a:hover {
     outline: 0;
 }
-a {
-    background: transparent;
-}
+
 /*a {
     background: transparent;
 }*/
