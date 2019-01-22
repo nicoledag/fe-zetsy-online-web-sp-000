@@ -26,8 +26,8 @@ body {
 
 h1 a {
 	font-family: 'Baskerville', serif;
-	font-size: 2em;
-	/*font-weight: normal;*/
+	font-size: 5em;
+	font-weight: normal;
 	color: rgb(152,173,166);
   text-decoration: none;
 }
