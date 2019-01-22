@@ -49,6 +49,7 @@ header a {
   -o-transition: color ease-out 1s;
   transition: color ease-out 1s;
 }
+
 header a:hover {
     color: rgb(111,127,122);
 	}
