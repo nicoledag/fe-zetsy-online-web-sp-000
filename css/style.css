@@ -52,8 +52,8 @@ header a:hover {
   border: 5px rgb(152,173,166) solid;
 	}
 
-#featured h2 {
-	olor: rgb(152, 173, 166);
+h2 {
+	color: rgb(152, 173, 166);
 	font-size: 2em;
 	}
 
