@@ -77,11 +77,11 @@ p {
 	border: 5px #ccc solid;
   padding: 1px;
 }
-
-a a:hover {
+/*
+a:active, a:hover {
     outline: 0;
 }
-
-/*a {
+a {
     background: transparent;
-}*/
+}
+*/
