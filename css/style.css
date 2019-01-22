@@ -27,6 +27,7 @@ body {
 /* Write all remaining styles here */
 
 header h1 a {
+	display: block;
 	font-family: 'Baskerville', serif;
 	font-size: 4em;
 	font-weight: normal;
