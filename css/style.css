@@ -78,10 +78,9 @@ p {
   padding: 1px;
 }
 
-a:hover {
+#press a:hover {
     outline: 0;
 }
 /*a {
     background: transparent;
 }*/
-
