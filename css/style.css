@@ -26,7 +26,7 @@ body {
 
 /* Write all remaining styles here */
 
-.section h1 {
+header h1 {
 	font-family: 'Baskerville', serif;
 	font-size: 5em;
 	font-weight: normal;
