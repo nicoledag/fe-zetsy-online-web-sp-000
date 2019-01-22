@@ -50,6 +50,11 @@ header a:hover {
     color: rgb(111,127,122);
 	}
 
+	-webkit-transition: background-color 0.5s ease;
+    -moz-transition: background-color 0.5s ease;
+    -o-transition: background-color ease-out 1s;
+    transition: background-color ease-out 1s;
+
 /*////////// SECTION //////////*/
 
 img {
