@@ -78,9 +78,13 @@ p {
   padding: 1px;
 }
 
-/*#press a:hover {
-    outline: 0;
-}*/
+
+element.style {
+}
+
+#press img:hover {
+    border: 5px rgb(111,127,122) solid;
+}
 /*a {
     background: transparent;
 }*/
