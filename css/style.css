@@ -92,3 +92,7 @@ footer {
  text-align: right;
  background: #fff;
 }
+
+.small {
+    font-size: 0.8em;
+}
