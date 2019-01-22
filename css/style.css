@@ -64,6 +64,10 @@ p {
 	margin: 0 0 20px 0;
 	}
 
+
+	#featured a {
+	    color: #1783bb;
+		}
 	#featured a:hover {
 	    text-decoration: underline;
 	}
