@@ -25,14 +25,17 @@ body {
 /* Write all remaining styles here */
 
 header h1 a {
-	display: block;
-	font-family: 'Baskerville', serif;
-	font-size: 3em;
-	font-weight: normal;
-  text-decoration: none;
 	padding-bottom: 10px;
 	margin: 0 0 5px;
+	font-size: 3em;
+	font-weight: normal;
+	font-family: 'Baskerville', serif;
 	border-bottom: 1px solid #ccc;
+	
+	display: block;
+  text-decoration: none;
+	
+
 	color: rgb(152, 173, 166);
 }
 
